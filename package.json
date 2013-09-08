@@ -1,0 +1,26 @@
+{
+  "name": "test-grunt-game",
+  "version": "0.0.0",
+  "description": "The Game",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "test-grunt-dependency-a": "git://https://github.com/potmo/test-grunt-dependency-a.git#master"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-typescript": "~0.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potmo/test-grunt-game.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/potmo/test-grunt-game/issues"
+  }
+}
