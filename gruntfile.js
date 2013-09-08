@@ -52,6 +52,7 @@ module.exports = function(grunt) {
 	grunt.loadNpmTasks('grunt-typescript');
 	grunt.loadNpmTasks('grunt-contrib-uglify');
 	grunt.loadNpmTasks('grunt-bump');
+	grunt.loadNpmTasks('grunt-check-modules');
 
 	grunt.registerTask('default', ['typescript',  'uglify']);
 
