@@ -1,10 +1,10 @@
 {
   "name": "test-grunt-game",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "The Game",
   "main": "gruntfile.js",
   "dependencies": {
-    "test-grunt-dependency-a": "git://github.com/potmo/test-grunt-dependency-a.git#master"
+    "test-grunt-dependency-a": "git://github.com/potmo/test-grunt-dependency-a.git#v0.0.5"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
