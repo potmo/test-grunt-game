@@ -4,7 +4,7 @@
   "description": "The Game",
   "main": "gruntfile.js",
   "dependencies": {
-    "test-grunt-dependency-a": "git://https://github.com/potmo/test-grunt-dependency-a.git#master"
+    "test-grunt-dependency-a": "git://github.com/potmo/test-grunt-dependency-a.git#master"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
