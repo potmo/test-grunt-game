@@ -1,6 +1,6 @@
 {
   "name": "test-grunt-game",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "The Game",
   "main": "gruntfile.js",
   "dependencies": {
